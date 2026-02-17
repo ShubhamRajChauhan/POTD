@@ -1,6 +1,6 @@
 /* 
 Leetcode : 1161
-https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/?envType=daily-question&envId=2026-01-06
+https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/
 */
 
 
