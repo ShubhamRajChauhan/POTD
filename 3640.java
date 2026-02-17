@@ -1,6 +1,6 @@
 /* 
 Leetcode : 3640
-https://leetcode.com/problems/trionic-array-ii/description/?envType=daily-question&envId=2026-02-04
+https://leetcode.com/problems/trionic-array-ii/description/
 */
 
 class Solution {
