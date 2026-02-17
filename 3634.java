@@ -1,6 +1,6 @@
 /* 
 Leetcode : 3634
-https://leetcode.com/problems/minimum-removals-to-balance-array/description/?source=submission-noac
+https://leetcode.com/problems/minimum-removals-to-balance-array/description/
 */
 
 class Solution {
