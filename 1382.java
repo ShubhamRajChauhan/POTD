@@ -1,6 +1,6 @@
 /* 
 Leetcode : 1382
-https://leetcode.com/problems/balance-a-binary-search-tree/description/?envType=daily-question&envId=2026-02-09
+https://leetcode.com/problems/balance-a-binary-search-tree/description/
 */
 
 
