@@ -1,6 +1,6 @@
 /* 
 Leetcode : 3010
-https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/description/?envType=daily-question&envId=2026-02-01
+https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/description/
 */
 
 
