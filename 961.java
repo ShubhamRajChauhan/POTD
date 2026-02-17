@@ -1,6 +1,6 @@
 /* 
 Leetcode : 961
-https://leetcode.com/problems/n-repeated-element-in-size-2n-array/description/?envType=daily-question&envId=2026-01-02
+https://leetcode.com/problems/n-repeated-element-in-size-2n-array/description/
 
 
 */
