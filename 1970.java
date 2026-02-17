@@ -1,6 +1,6 @@
 /* 
 Leetcode : 1970
-https://leetcode.com/problems/last-day-where-you-can-still-cross/description/?envType=daily-question&envId=2025-12-31
+https://leetcode.com/problems/last-day-where-you-can-still-cross/description/
 
 */
 
