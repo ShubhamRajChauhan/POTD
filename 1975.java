@@ -1,7 +1,6 @@
 /* 
 Leetcode : 1975
-https://leetcode.com/problems/maximum-matrix-sum/description/?envType=daily-question&envId=2026-01-05
-
+https://leetcode.com/problems/maximum-matrix-sum/description/
 */
 
 class Solution {
