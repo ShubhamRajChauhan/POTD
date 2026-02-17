@@ -1,6 +1,6 @@
 /* 
 Leetcode : 3713
-https://leetcode.com/problems/longezst-balanced-substring-i/description/?envType=daily-question&envId=2026-02-12
+https://leetcode.com/problems/longest-balanced-substring-i/description/
 */
 
 class Solution {
