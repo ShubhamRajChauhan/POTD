@@ -1,6 +1,6 @@
 /* 
 Leetcode : 3719
-https://leetcode.com/problems/longest-balanced-subarray-i/?envType=daily-question&envId=2026-02-10
+https://leetcode.com/problems/longest-balanced-subarray-i/description/
 */
 
 class Solution {
