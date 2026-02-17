@@ -1,7 +1,6 @@
 /* 
 Leetcode : 840
-https://leetcode.com/problems/magic-squares-in-grid/description/?envType=daily-question&envId=2025-12-30
-
+https://leetcode.com/problems/magic-squares-in-grid/description/
 
 */
 
