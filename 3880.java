@@ -4,7 +4,7 @@ https://leetcode.com/problems/minimum-absolute-difference-between-two-values/des
 */
 
 
-/*
+//Approach: 1
 class Solution {
     public int minAbsoluteDifference(int[] nums) {
         int ans = 100000007;
@@ -19,10 +19,11 @@ class Solution {
         return (ans == 100000007) ? -1 : ans;
     }
 }
-*/
 
 
 
+
+//Approach: 2
 class Solution {
     public int minAbsoluteDifference(int[] nums) {
         int lastOne = -1;
