@@ -28,9 +28,6 @@ class Solution {
 
 
 
-
-
-
 //Approach 2:
 class Solution {
     public int[] fairCandySwap(int[] aliceSizes, int[] bobSizes) {
