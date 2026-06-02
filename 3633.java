@@ -1,0 +1,26 @@
+/* 
+Leetcode : 3633
+https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/description/
+*/
+
+
+class Solution {
+    public int earliestFinishTime(int[] landStartTime, int[] landDuration, int[] waterStartTime, int[] waterDuration) {
+        int ans = Integer.MAX_VALUE;
+        for(int i=0; i<landStartTime.length; i++) {
+            for(int j=0; j<waterStartTime.length; j++) {
+                //Land -> Water
+                int landFinish = landStartTime[i] + landDuration[i];
+                int finish1 = Math.max(landFinish, waterStartTime[j]) + waterDuration[j];
+
+                //Water -> Land
+                int waterFinish = waterStartTime[j] + waterDuration[j];
+                int finish2  = Math.max(waterFinish, landStartTime[i]) + landDuration[i];
+
+                ans = Math.min(ans, Math.min(finish1, finish2));
+            }
+        }
+
+        return ans;
+    }
+}
