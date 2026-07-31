@@ -4,6 +4,7 @@ https://leetcode.com/problems/maximum-product-of-two-digits/description/
 */
 
 
+
 class Solution {
     public int maxProduct(int n) {
         int first = 0;
